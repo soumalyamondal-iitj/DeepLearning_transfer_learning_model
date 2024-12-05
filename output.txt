@@ -1,0 +1,70 @@
+Training model1 on Task 1
+Epoch [1/20], Accuracy: 16.40%
+Epoch [2/20], Accuracy: 13.20%
+Epoch [3/20], Accuracy: 19.20%
+Epoch [4/20], Accuracy: 32.30%
+Epoch [5/20], Accuracy: 29.10%
+Epoch [6/20], Accuracy: 35.10%
+Epoch [7/20], Accuracy: 52.50%
+Epoch [8/20], Accuracy: 50.90%
+Epoch [9/20], Accuracy: 51.90%
+Epoch [10/20], Accuracy: 50.30%
+Epoch [11/20], Accuracy: 53.50%
+Epoch [12/20], Accuracy: 52.00%
+Epoch [13/20], Accuracy: 55.40%
+Epoch [14/20], Accuracy: 55.20%
+Epoch [15/20], Accuracy: 54.70%
+Epoch [16/20], Accuracy: 55.00%
+Epoch [17/20], Accuracy: 55.00%
+Epoch [18/20], Accuracy: 55.30%
+Epoch [19/20], Accuracy: 55.30%
+Epoch [20/20], Accuracy: 55.20%
+A1 Accuracy: 55.40%
+Training model2 on Task 2
+Epoch [1/20], Accuracy: 20.60%
+Epoch [2/20], Accuracy: 20.00%
+Epoch [3/20], Accuracy: 20.00%
+Epoch [4/20], Accuracy: 20.00%
+Epoch [5/20], Accuracy: 22.60%
+Epoch [6/20], Accuracy: 24.80%
+Epoch [7/20], Accuracy: 33.40%
+Epoch [8/20], Accuracy: 36.20%
+Epoch [9/20], Accuracy: 37.20%
+Epoch [10/20], Accuracy: 28.80%
+Epoch [11/20], Accuracy: 37.20%
+Epoch [12/20], Accuracy: 37.80%
+Epoch [13/20], Accuracy: 37.60%
+Epoch [14/20], Accuracy: 37.80%
+Epoch [15/20], Accuracy: 38.20%
+Epoch [16/20], Accuracy: 39.40%
+Epoch [17/20], Accuracy: 39.20%
+Epoch [18/20], Accuracy: 39.00%
+Epoch [19/20], Accuracy: 38.80%
+Epoch [20/20], Accuracy: 39.00%
+A2 Accuracy: 39.40%
+Training model3 (Transfer Learning) on Task 2
+Epoch [1/20], Accuracy: 44.40%
+Epoch [2/20], Accuracy: 42.00%
+Epoch [3/20], Accuracy: 40.00%
+Epoch [4/20], Accuracy: 45.20%
+Epoch [5/20], Accuracy: 44.40%
+Epoch [6/20], Accuracy: 48.20%
+Epoch [7/20], Accuracy: 47.40%
+Epoch [8/20], Accuracy: 45.80%
+Epoch [9/20], Accuracy: 45.20%
+Epoch [10/20], Accuracy: 44.40%
+Epoch [11/20], Accuracy: 44.20%
+Epoch [12/20], Accuracy: 44.20%
+Epoch [13/20], Accuracy: 44.20%
+Epoch [14/20], Accuracy: 44.40%
+Epoch [15/20], Accuracy: 44.40%
+Epoch [16/20], Accuracy: 44.60%
+Epoch [17/20], Accuracy: 44.60%
+Epoch [18/20], Accuracy: 44.60%
+Epoch [19/20], Accuracy: 44.60%
+Epoch [20/20], Accuracy: 44.60%
+A3 Accuracy: 48.20%
+Comparison of Accuracies:
+A1 (Task 1): 55.40%
+A2 (Task 2): 39.40%
+A3 (Transfer Learning Task 2): 48.20%
